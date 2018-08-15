@@ -1,0 +1,13 @@
+{
+    "role": {
+        "name": "schema_access",
+        "schema_privileges": [
+            {
+                "privileges": [
+                    "SELECT",
+                    "EXECUTE"
+                ]
+            }
+        ]
+    }
+}
